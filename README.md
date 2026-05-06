@@ -2,6 +2,9 @@
 
 A full-stack web application that lets users upload any CSV dataset, get instant automated analysis with charts, and ask questions about their data in plain English using AI.
 
+## 🌐 Live Demo
+https://ai-data-insights.onrender.com
+
 ## Features
 
 - **User Authentication** — secure signup, login and logout with hashed passwords
